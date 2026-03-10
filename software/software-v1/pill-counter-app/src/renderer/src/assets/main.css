@@ -1,0 +1,6 @@
+/* This is where Tailwind injects its base styles, component styles, and utility classes.
+   These three lines are required — don't remove them. */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
